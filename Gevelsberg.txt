@@ -1,0 +1,30 @@
+{
+  "name": "Freifunk Gevelsberg",
+  "url": "http://www.freifunk-gevelsberg.net/",
+  "location": {
+    "city": "Gevelsberg",
+    "country": "Deutschland",
+    "lat": 51.319646,
+    "lon": 7.338855
+  },
+  "contact": {
+    "email": "kontakt@freifunk-gevelsberg.net",
+    "facebook": "https://www.facebook.com/FreifunkGevelsberg",
+    "twitter": "@FFGevelsberg"
+  },
+  "state": {
+    "nodes": 30,
+    "lastchange": "2014-04-28T10:00:38.206Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rheinland.net/#map?bbox=7.294020652770997,51.311005970865835,7.35431671142578,51.33173783731403",
+      "technicalType": "openwifimap",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "routing": ""
+  },
+  "api": "0.3.0"
+}
